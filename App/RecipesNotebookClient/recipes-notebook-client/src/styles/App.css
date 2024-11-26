@@ -1,0 +1,17 @@
+.home-link-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; /* Adjust as needed */
+  }
+  
+  .home-link {
+    color: #2196f3;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .home-link:hover {
+    color: #0056b3;
+    font-weight: bold;
+    text-decoration: underline;
+}

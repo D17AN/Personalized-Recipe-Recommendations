@@ -1,0 +1,77 @@
+.recipe-details-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  .recipe-details2 {
+    padding: 20px;
+  }
+  
+  .recipe-details2 h2 {
+    margin-top: 0;
+  }
+  
+  .recipe-details2 p {
+    margin: 10px 0;
+  }
+  
+  .recipe-details2 input,
+  .recipe-details2 .editable-field {
+    width: calc(100% - 20px);
+    padding: 12px; /* Increased padding for larger input fields */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; /* Increased font size for input fields */
+  }
+  
+  .recipe-details2 button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+    
+  .save-btn {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .save-btn:hover {
+    background-color: #218838;
+  }
+
+  .cancel-btn {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .cancel-btn:hover {
+    background-color: #c82333;
+  }
+  
+  .edit-btn {
+    background-color: #2196f3;
+    color: white;
+  }
+
+  .edit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .home-link-container {
+    text-align: right;
+  }
+  
+  .home-link {
+    color: #2196f3;
+    text-decoration: none;
+  }
+  
+  .home-link:hover {
+    text-decoration: underline;
+  }
