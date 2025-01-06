@@ -17,13 +17,18 @@ provide the customer valuable suggestions.
 ![image](https://github.com/user-attachments/assets/670f9452-a8b9-4ab3-880b-2423761db1f6)
 
 
-
 ### Recipe Recommendation Functionality
+1. Go to the main page <br>
+![image](https://github.com/user-attachments/assets/f0843535-1eb6-4867-8369-2b68232674ce)
 
-1. Select the criteria based on which the recipe is generated.
+2. Press Recommend <br>
+![image](https://github.com/user-attachments/assets/de4393b2-e875-4ec4-90c2-111b05b3b38b)
 
+4. Select the criteria based on which the recipe is generated.<br>
 ![image](https://github.com/user-attachments/assets/86951211-898c-42c3-8b1e-f438828ea897)
 
-2. Add or not the recipe in the notebook
-   
+5. Wait the recipe to be generated <br>
+![image](https://github.com/user-attachments/assets/2bd0299f-b8a5-4d9b-ac1f-07980898bc75)
+
+6. Add or not the recipe in the notebook <br>  
 ![image](https://github.com/user-attachments/assets/73919d73-8a06-4256-9388-5f744eed7649)
